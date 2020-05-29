@@ -1,9 +1,165 @@
-div #container{
-			background-color: #FF5733 
-			width: 50px;
-			height: 50px;
-			border-color: black;
-			border-size:1px;
-		    margin-top: auto;
-		    position: relative;
+*{
+	background-color:white;
+
+
+
 }
+	*{ box-sizing: border-box;
+           margin: 0;
+           padding: 0;
+         }
+         <style>
+
+		h1{
+			color: gold;
+			text-decoration: underline;
+		}
+
+		*{ box-sizing: border-box;
+           margin: 0;
+           padding: 0;
+         }
+
+		h1{
+			text-align: center;
+			font-family: helvetica;
+			font-size:40px;
+			margin-bottom: 15px;
+			margin-left: auto;
+			margin-right: auto;
+
+
+		}
+		
+
+
+		p{
+
+			font-family:helvetica;
+
+			
+			
+			
+		}
+
+
+
+		.row{
+			width:100%;
+}
+
+
+
+		
+
+
+		#p1{
+			background-color:#cdd5cb;
+		
+		
+			width:350px;
+			height:300px;
+			position: relative;
+			top: 0px;
+			
+			left: 50px;
+			padding-top: 0px;
+			display: inline-block;
+			margin-left: 25px;
+			margin-right: auto;
+			margin: center;
+
+
+			
+
+			
+			}
+
+			#p2{
+			background-color:#cdd5cb;
+			
+			width:350px;
+			height:300px;
+		    position: relative;
+		    top: 0px;
+		   left:50px;
+		 padding-top: 0px;
+		    display: inline-block;
+		    margin-top: 50px;
+		    margin-left:25px;
+		    margin-right: auto;
+		    margin: center;
+		
+
+
+		 
+		
+		
+		}
+		#p3{
+			background-color:#cdd5cb;
+			width:350px;
+			height: 300px;
+		 position: relative;
+	        top: 0px;
+	        left:50px;
+	      
+	      
+	        display: inline-block;
+
+	        
+	        margin-left:25px;
+	        margin-top: 50px;
+	        margin:center;
+
+
+
+
+			
+			
+		
+			
+
+		}
+
+		#p4{
+			background-color:red;
+			position:relative;
+			top:0px;
+			left:250px;
+			text-align: center;
+			padding-top: 0px;
+			padding: 10px;
+			width:100px;
+
+		}
+
+
+		#p5{
+			background-color: red;
+			width:100px;
+			height: 40px;
+		    padding: 10px;
+	        top: 0px;
+			left: 250px;
+			position: relative;
+			top: 0px;
+
+
+		
+
+
+		}
+
+		#p6{
+			background-color: red;
+			width:100px;
+			height: 40px;
+			padding:10px;
+			position: relative;
+			top:0px;
+			left: 250px;
+		}
+</style>
+
+
